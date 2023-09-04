@@ -42,7 +42,7 @@ If you want to contribute to this project, please create a pull request with you
 
 ## Credits
 
-- Original C# code by [notkohlrexo]([https://github.com/notkohlrexo](https://github.com/notkohlrexo/Discord-Token-Stealer))
+- Original C# code by [notkohlrexo](https://github.com/notkohlrexo/Discord-Token-Stealer)
 - C++ port by [unreliablecode](https://github.com/unreliablecode)
 
 ## Contact
